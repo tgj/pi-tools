@@ -1,0 +1,4 @@
+sudo amazon-ssm-agent -register \
+    -code "bNtE8mudZRGdn1LxCIgX" \
+    -id "03866214-060e-4df4-bc28-f6acc878ce23" \
+    -region "us-east-1" 
